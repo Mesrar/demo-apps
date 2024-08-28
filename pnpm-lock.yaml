@@ -14,7 +14,7 @@ importers:
     dependencies:
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
     devDependencies:
       '@changesets/cli':
         specifier: ^2.26.2
@@ -41,8 +41,8 @@ importers:
         specifier: ^13.2.3
         version: 13.2.3
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@playwright/test@1.35.1)(react-dom@18.2.0)(react@18.2.0)
       prettier:
         specifier: 3.0.3
         version: 3.0.3
@@ -63,7 +63,7 @@ importers:
         version: 3.3.1(react-hook-form@7.44.3)
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/apps-shared':
         specifier: workspace:*
         version: link:../../packages/shared
@@ -78,7 +78,7 @@ importers:
         version: link:../../packages/react-hook-form-macaw
       '@sentry/nextjs':
         specifier: 7.77.0
-        version: 7.77.0(next@13.4.8)(react@18.2.0)
+        version: 7.77.0(next@14.2.7)(react@18.2.0)
       '@tanstack/react-query':
         specifier: ^4.29.19
         version: 4.29.19(react-dom@18.2.0)(react@18.2.0)
@@ -87,7 +87,7 @@ importers:
         version: 10.43.1(@trpc/server@10.43.1)
       '@trpc/next':
         specifier: 10.43.1
-        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: 10.43.1
         version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/server@10.43.1)(react-dom@18.2.0)(react@18.2.0)
@@ -113,8 +113,8 @@ importers:
         specifier: ^20.0.3
         version: 20.0.3
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       p-ratelimit:
         specifier: 1.0.1
         version: 1.0.1
@@ -214,7 +214,7 @@ importers:
         version: 3.0.80
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/apps-shared':
         specifier: workspace:*
         version: link:../../packages/shared
@@ -226,7 +226,7 @@ importers:
         version: 1.0.0-pre.7(@types/react-dom@18.2.5)(@types/react@18.2.5)(@vanilla-extract/css@1.14.0)(react-dom@18.2.0)(react@18.2.0)
       '@sentry/nextjs':
         specifier: 7.77.0
-        version: 7.77.0(next@13.4.8)(react@18.2.0)
+        version: 7.77.0(next@14.2.7)(react@18.2.0)
       '@tanstack/react-query':
         specifier: 4.29.19
         version: 4.29.19(react-dom@18.2.0)(react@18.2.0)
@@ -235,7 +235,7 @@ importers:
         version: 10.43.1(@trpc/server@10.43.1)
       '@trpc/next':
         specifier: 10.43.1
-        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: 10.43.1
         version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/server@10.43.1)(react-dom@18.2.0)(react@18.2.0)
@@ -261,8 +261,8 @@ importers:
         specifier: ^20.0.3
         version: 20.0.3
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       pino:
         specifier: ^8.14.1
         version: 8.14.1
@@ -350,7 +350,7 @@ importers:
     dependencies:
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/apps-shared':
         specifier: workspace:*
         version: link:../../packages/shared
@@ -359,7 +359,7 @@ importers:
         version: 1.0.0-pre.7(@types/react-dom@18.2.5)(@types/react@18.2.5)(@vanilla-extract/css@1.14.0)(react-dom@18.2.0)(react@18.2.0)
       '@sentry/nextjs':
         specifier: 7.77.0
-        version: 7.77.0(next@13.4.8)(react@18.2.0)
+        version: 7.77.0(next@14.2.7)(react@18.2.0)
       '@urql/exchange-auth':
         specifier: ^2.1.4
         version: 2.1.4(graphql@16.7.1)
@@ -382,8 +382,8 @@ importers:
         specifier: ^20.0.3
         version: 20.0.3
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       nuvo-react:
         specifier: ^1.22.1
         version: 1.22.1(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
@@ -474,7 +474,7 @@ importers:
         version: 4.4.6(monaco-editor@0.44.0)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/apps-shared':
         specifier: workspace:*
         version: link:../../packages/shared
@@ -495,7 +495,7 @@ importers:
         version: 7.7.0
       '@sentry/nextjs':
         specifier: 7.77.0
-        version: 7.77.0(next@13.4.8)(react@18.2.0)
+        version: 7.77.0(next@14.2.7)(react@18.2.0)
       '@tanstack/react-query':
         specifier: 4.29.19
         version: 4.29.19(react-dom@18.2.0)(react@18.2.0)
@@ -504,7 +504,7 @@ importers:
         version: 10.43.1(@trpc/server@10.43.1)
       '@trpc/next':
         specifier: 10.43.1
-        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: 10.43.1
         version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/server@10.43.1)(react-dom@18.2.0)(react@18.2.0)
@@ -539,8 +539,8 @@ importers:
         specifier: ^4.13.0
         version: 4.13.0
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       nodemailer:
         specifier: ^6.9.1
         version: 6.9.1
@@ -640,7 +640,7 @@ importers:
         version: 3.3.1(react-hook-form@7.44.3)
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/apps-shared':
         specifier: workspace:*
         version: link:../../packages/shared
@@ -655,7 +655,7 @@ importers:
         version: link:../../packages/trpc
       '@sentry/nextjs':
         specifier: 7.77.0
-        version: 7.77.0(next@13.4.8)(react@18.2.0)
+        version: 7.77.0(next@14.2.7)(react@18.2.0)
       '@tanstack/react-query':
         specifier: 4.29.19
         version: 4.29.19(react-dom@18.2.0)(react@18.2.0)
@@ -664,7 +664,7 @@ importers:
         version: 10.43.1(@trpc/server@10.43.1)
       '@trpc/next':
         specifier: 10.43.1
-        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: 10.43.1
         version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/server@10.43.1)(react-dom@18.2.0)(react@18.2.0)
@@ -690,8 +690,8 @@ importers:
         specifier: ^1.0.6
         version: 1.0.6
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       pino:
         specifier: ^8.14.1
         version: 8.14.1
@@ -782,7 +782,7 @@ importers:
     dependencies:
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/apps-shared':
         specifier: workspace:*
         version: link:../../packages/shared
@@ -794,7 +794,7 @@ importers:
         version: 1.0.0-pre.7(@types/react-dom@18.2.5)(@types/react@18.2.5)(@vanilla-extract/css@1.14.0)(react-dom@18.2.0)(react@18.2.0)
       '@sentry/nextjs':
         specifier: 7.77.0
-        version: 7.77.0(next@13.4.8)(react@18.2.0)
+        version: 7.77.0(next@14.2.7)(react@18.2.0)
       '@urql/exchange-auth':
         specifier: ^2.1.4
         version: 2.1.4(graphql@16.7.1)
@@ -805,8 +805,8 @@ importers:
         specifier: ^2.12.6
         version: 2.12.6(graphql@16.7.1)
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       node-fetch:
         specifier: ^3.2.6
         version: 3.2.6
@@ -900,7 +900,7 @@ importers:
         version: 3.3.1(react-hook-form@7.44.3)
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/apps-shared':
         specifier: workspace:*
         version: link:../../packages/shared
@@ -918,7 +918,7 @@ importers:
         version: link:../../packages/webhook-utils
       '@sentry/nextjs':
         specifier: 7.77.0
-        version: 7.77.0(next@13.4.8)(react@18.2.0)
+        version: 7.77.0(next@14.2.7)(react@18.2.0)
       '@tanstack/react-query':
         specifier: 4.29.19
         version: 4.29.19(react-dom@18.2.0)(react@18.2.0)
@@ -927,7 +927,7 @@ importers:
         version: 10.43.1(@trpc/server@10.43.1)
       '@trpc/next':
         specifier: 10.43.1
-        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: 10.43.1
         version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/server@10.43.1)(react-dom@18.2.0)(react@18.2.0)
@@ -959,8 +959,8 @@ importers:
         specifier: ^20.0.3
         version: 20.0.3
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       pino:
         specifier: ^8.14.1
         version: 8.14.1
@@ -1048,7 +1048,7 @@ importers:
         version: 3.3.1(react-hook-form@7.44.3)
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/apps-shared':
         specifier: workspace:*
         version: link:../../packages/shared
@@ -1066,7 +1066,7 @@ importers:
         version: link:../../packages/webhook-utils
       '@sentry/nextjs':
         specifier: 7.77.0
-        version: 7.77.0(next@13.4.8)(react@18.2.0)
+        version: 7.77.0(next@14.2.7)(react@18.2.0)
       '@tanstack/react-query':
         specifier: 4.29.19
         version: 4.29.19(react-dom@18.2.0)(react@18.2.0)
@@ -1075,7 +1075,7 @@ importers:
         version: 10.43.1(@trpc/server@10.43.1)
       '@trpc/next':
         specifier: 10.43.1
-        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: 10.43.1
         version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/server@10.43.1)(react-dom@18.2.0)(react@18.2.0)
@@ -1107,8 +1107,8 @@ importers:
         specifier: ^2.12.6
         version: 2.12.6(graphql@16.7.1)
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       pino:
         specifier: ^8.14.1
         version: 8.14.1
@@ -1196,7 +1196,7 @@ importers:
         version: 3.3.1(react-hook-form@7.44.3)
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/apps-shared':
         specifier: workspace:*
         version: link:../../packages/shared
@@ -1217,7 +1217,7 @@ importers:
         version: 1.1.0
       '@sentry/nextjs':
         specifier: 7.77.0
-        version: 7.77.0(next@13.4.8)(react@18.2.0)
+        version: 7.77.0(next@14.2.7)(react@18.2.0)
       '@tanstack/react-query':
         specifier: ^4.29.19
         version: 4.29.19(react-dom@18.2.0)(react@18.2.0)
@@ -1226,7 +1226,7 @@ importers:
         version: 10.43.1(@trpc/server@10.43.1)
       '@trpc/next':
         specifier: 10.43.1
-        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: 10.43.1
         version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/server@10.43.1)(react-dom@18.2.0)(react@18.2.0)
@@ -1249,8 +1249,8 @@ importers:
         specifier: ^20.0.3
         version: 20.0.3
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       pino:
         specifier: ^8.14.1
         version: 8.14.1
@@ -1335,7 +1335,7 @@ importers:
     dependencies:
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/apps-shared':
         specifier: workspace:*
         version: link:../../packages/shared
@@ -1350,7 +1350,7 @@ importers:
         version: link:../../packages/react-hook-form-macaw
       '@sentry/nextjs':
         specifier: 7.77.0
-        version: 7.77.0(next@13.4.8)(react@18.2.0)
+        version: 7.77.0(next@14.2.7)(react@18.2.0)
       '@urql/exchange-auth':
         specifier: ^2.1.4
         version: 2.1.4(graphql@16.7.1)
@@ -1367,8 +1367,8 @@ importers:
         specifier: ^4.11.2
         version: 4.14.4
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       pino:
         specifier: ^8.14.1
         version: 8.14.1
@@ -1462,7 +1462,7 @@ importers:
         version: 13.5.4
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/apps-shared':
         specifier: workspace:*
         version: link:../../packages/shared
@@ -1480,7 +1480,7 @@ importers:
         version: 2.20.6
       '@sentry/nextjs':
         specifier: 7.77.0
-        version: 7.77.0(next@13.4.8)(react@18.2.0)
+        version: 7.77.0(next@14.2.7)(react@18.2.0)
       '@tanstack/react-query':
         specifier: 4.29.19
         version: 4.29.19(react-dom@18.2.0)(react@18.2.0)
@@ -1489,7 +1489,7 @@ importers:
         version: 10.43.1(@trpc/server@10.43.1)
       '@trpc/next':
         specifier: 10.43.1
-        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: 10.43.1
         version: 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/server@10.43.1)(react-dom@18.2.0)(react@18.2.0)
@@ -1524,8 +1524,8 @@ importers:
         specifier: ^5.0.0
         version: 5.0.0(modern-errors@6.0.0)
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       pino:
         specifier: ^8.14.1
         version: 8.14.1
@@ -1616,7 +1616,7 @@ importers:
         version: 1.35.1
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       dotenv:
         specifier: ^16.3.1
         version: 16.3.1
@@ -1645,8 +1645,8 @@ importers:
         specifier: 7.33.2
         version: 7.33.2(eslint@8.46.0)
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@playwright/test@1.35.1)(react-dom@18.2.0)(react@18.2.0)
       typescript:
         specifier: 5.1.6
         version: 5.1.6
@@ -1741,7 +1741,7 @@ importers:
     devDependencies:
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/macaw-ui':
         specifier: 1.0.0-pre.7
         version: 1.0.0-pre.7(@types/react-dom@18.2.5)(@types/react@18.2.5)(@vanilla-extract/css@1.14.0)(react-dom@18.2.0)(react@18.2.0)
@@ -1758,8 +1758,8 @@ importers:
         specifier: workspace:*
         version: link:../eslint-config-saleor
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@playwright/test@1.35.1)(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: 18.2.0
         version: 18.2.0
@@ -1795,7 +1795,7 @@ importers:
         version: 10.34.0(@trpc/server@10.34.0)
       '@trpc/next':
         specifier: 10.34.0
-        version: 10.34.0(@tanstack/react-query@4.29.19)(@trpc/client@10.34.0)(@trpc/react-query@10.34.0)(@trpc/server@10.34.0)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 10.34.0(@tanstack/react-query@4.29.19)(@trpc/client@10.34.0)(@trpc/react-query@10.34.0)(@trpc/server@10.34.0)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: 10.34.0
         version: 10.34.0(@tanstack/react-query@4.29.19)(@trpc/client@10.34.0)(@trpc/server@10.34.0)(react-dom@18.2.0)(react@18.2.0)
@@ -1817,7 +1817,7 @@ importers:
     devDependencies:
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       eslint:
         specifier: 8.46.0
         version: 8.46.0
@@ -1825,8 +1825,8 @@ importers:
         specifier: workspace:*
         version: link:../eslint-config-saleor
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@playwright/test@1.35.1)(react-dom@18.2.0)(react@18.2.0)
       typescript:
         specifier: 5.1.6
         version: 5.1.6
@@ -1842,7 +1842,7 @@ importers:
     devDependencies:
       '@saleor/app-sdk':
         specifier: 0.43.1
-        version: 0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0)
+        version: 0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0)
       '@saleor/macaw-ui':
         specifier: 1.0.0-pre.7
         version: 1.0.0-pre.7(@types/react-dom@18.2.5)(@types/react@18.2.5)(@vanilla-extract/css@1.14.0)(react-dom@18.2.0)(react@18.2.0)
@@ -1856,8 +1856,8 @@ importers:
         specifier: workspace:*
         version: link:../eslint-config-saleor
       next:
-        specifier: 13.4.8
-        version: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+        specifier: 14.2.7
+        version: 14.2.7(@playwright/test@1.35.1)(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: 18.2.0
         version: 18.2.0
@@ -8452,12 +8452,12 @@ packages:
     resolution: {integrity: sha512-AjppRV4uG3No7L1plinoTQETH+j2F10TEnrMfzbTUYwze5sBUPveeeBAPZPm8OkJZ1epq9OyYKhZrvbD6/9HCQ==}
     dev: false
 
-  /@next/env@13.4.8:
-    resolution: {integrity: sha512-twuSf1klb3k9wXI7IZhbZGtFCWvGD4wXTY2rmvzIgVhXhs7ISThrbNyutBx3jWIL8Y/Hk9+woytFz5QsgtcRKQ==}
-
   /@next/env@13.5.4:
     resolution: {integrity: sha512-LGegJkMvRNw90WWphGJ3RMHMVplYcOfRWf2Be3td3sUa+1AaxmsYyANsA+znrGCBjXJNi4XAQlSoEfUxs/4kIQ==}
     dev: false
+
+  /@next/env@14.2.7:
+    resolution: {integrity: sha512-OTx9y6I3xE/eih+qtthppwLytmpJVPM5PPoJxChFsbjIEFXIayG0h/xLzefHGJviAa3Q5+Fd+9uYojKkHDKxoQ==}
 
   /@next/eslint-plugin-next@13.4.8:
     resolution: {integrity: sha512-cmfVHpxWjjcETFt2WHnoFU6EmY69QcPJRlRNAooQlNe53Ke90vg1Ci/dkPffryJZaxxiRziP9bQrV8lDVCn3Fw==}
@@ -8474,8 +8474,8 @@ packages:
     dev: false
     optional: true
 
-  /@next/swc-darwin-arm64@13.4.8:
-    resolution: {integrity: sha512-MSFplVM4dTWOuKAUv0XR9gY7AWtMSBu9os9f+kp+s5rWhM1I2CdR3obFttd6366nS/W/VZxbPM5oEIdlIa46zA==}
+  /@next/swc-darwin-arm64@14.2.7:
+    resolution: {integrity: sha512-UhZGcOyI9LE/tZL3h9rs/2wMZaaJKwnpAyegUVDGZqwsla6hMfeSj9ssBWQS9yA4UXun3pPhrFLVnw5KXZs3vw==}
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [darwin]
@@ -8491,8 +8491,8 @@ packages:
     dev: false
     optional: true
 
-  /@next/swc-darwin-x64@13.4.8:
-    resolution: {integrity: sha512-Reox+UXgonon9P0WNDE6w85DGtyBqGitl/ryznOvn6TvfxEaZIpTgeu3ZrJLU9dHSMhiK7YAM793mE/Zii2/Qw==}
+  /@next/swc-darwin-x64@14.2.7:
+    resolution: {integrity: sha512-ys2cUgZYRc+CbyDeLAaAdZgS7N1Kpyy+wo0b/gAj+SeOeaj0Lw/q+G1hp+DuDiDAVyxLBCJXEY/AkhDmtihUTA==}
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [darwin]
@@ -8508,8 +8508,8 @@ packages:
     dev: false
     optional: true
 
-  /@next/swc-linux-arm64-gnu@13.4.8:
-    resolution: {integrity: sha512-kdyzYvAYtqQVgzIKNN7e1rLU8aZv86FDSRqPlOkKZlvqudvTO0iohuTPmnEEDlECeBM6qRPShNffotDcU/R2KA==}
+  /@next/swc-linux-arm64-gnu@14.2.7:
+    resolution: {integrity: sha512-2xoWtE13sUJ3qrC1lwE/HjbDPm+kBQYFkkiVECJWctRASAHQ+NwjMzgrfqqMYHfMxFb5Wws3w9PqzZJqKFdWcQ==}
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [linux]
@@ -8525,8 +8525,8 @@ packages:
     dev: false
     optional: true
 
-  /@next/swc-linux-arm64-musl@13.4.8:
-    resolution: {integrity: sha512-oWxx4yRkUGcR81XwbI+T0zhZ3bDF6V1aVLpG+C7hSG50ULpV8gC39UxVO22/bv93ZlcfMY4zl8xkz9Klct6dpQ==}
+  /@next/swc-linux-arm64-musl@14.2.7:
+    resolution: {integrity: sha512-+zJ1gJdl35BSAGpkCbfyiY6iRTaPrt3KTl4SF/B1NyELkqqnrNX6cp4IjjjxKpd64/7enI0kf6b9O1Uf3cL0pw==}
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [linux]
@@ -8542,8 +8542,8 @@ packages:
     dev: false
     optional: true
 
-  /@next/swc-linux-x64-gnu@13.4.8:
-    resolution: {integrity: sha512-anhtvuO6eE9YRhYnaEGTfbpH3L5gT/9qPFcNoi6xS432r/4DAtpJY8kNktqkTVevVIC/pVumqO8tV59PR3zbNg==}
+  /@next/swc-linux-x64-gnu@14.2.7:
+    resolution: {integrity: sha512-m6EBqrskeMUzykBrv0fDX/28lWIBGhMzOYaStp0ihkjzIYJiKUOzVYD1gULHc8XDf5EMSqoH/0/TRAgXqpQwmw==}
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [linux]
@@ -8559,8 +8559,8 @@ packages:
     dev: false
     optional: true
 
-  /@next/swc-linux-x64-musl@13.4.8:
-    resolution: {integrity: sha512-aR+J4wWfNgH1DwCCBNjan7Iumx0lLtn+2/rEYuhIrYLY4vnxqSVGz9u3fXcgUwo6Q9LT8NFkaqK1vPprdq+BXg==}
+  /@next/swc-linux-x64-musl@14.2.7:
+    resolution: {integrity: sha512-gUu0viOMvMlzFRz1r1eQ7Ql4OE+hPOmA7smfZAhn8vC4+0swMZaZxa9CSIozTYavi+bJNDZ3tgiSdMjmMzRJlQ==}
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [linux]
@@ -8576,8 +8576,8 @@ packages:
     dev: false
     optional: true
 
-  /@next/swc-win32-arm64-msvc@13.4.8:
-    resolution: {integrity: sha512-OWBKIrJwQBTqrat0xhxEB/jcsjJR3+diD9nc/Y8F1mRdQzsn4bPsomgJyuqPVZs6Lz3K18qdIkvywmfSq75SsQ==}
+  /@next/swc-win32-arm64-msvc@14.2.7:
+    resolution: {integrity: sha512-PGbONHIVIuzWlYmLvuFKcj+8jXnLbx4WrlESYlVnEzDsa3+Q2hI1YHoXaSmbq0k4ZwZ7J6sWNV4UZfx1OeOlbQ==}
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [win32]
@@ -8593,8 +8593,8 @@ packages:
     dev: false
     optional: true
 
-  /@next/swc-win32-ia32-msvc@13.4.8:
-    resolution: {integrity: sha512-agiPWGjUndXGTOn4ChbKipQXRA6/UPkywAWIkx7BhgGv48TiJfHTK6MGfBoL9tS6B4mtW39++uy0wFPnfD0JWg==}
+  /@next/swc-win32-ia32-msvc@14.2.7:
+    resolution: {integrity: sha512-BiSY5umlx9ed5RQDoHcdbuKTUkuFORDqzYKPHlLeS+STUWQKWziVOn3Ic41LuTBvqE0TRJPKpio9GSIblNR+0w==}
     engines: {node: '>= 10'}
     cpu: [ia32]
     os: [win32]
@@ -8610,8 +8610,8 @@ packages:
     dev: false
     optional: true
 
-  /@next/swc-win32-x64-msvc@13.4.8:
-    resolution: {integrity: sha512-UIRKoByVKbuR6SnFG4JM8EMFlJrfEGuUQ1ihxzEleWcNwRMMiVaCj1KyqfTOW8VTQhJ0u8P1Ngg6q1RwnIBTtw==}
+  /@next/swc-win32-x64-msvc@14.2.7:
+    resolution: {integrity: sha512-pxsI23gKWRt/SPHFkDEsP+w+Nd7gK37Hpv0ngc5HpWy2e7cKx9zR/+Q2ptAUqICNTecAaGWvmhway7pj/JLEWA==}
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [win32]
@@ -8680,7 +8680,6 @@ packages:
       playwright-core: 1.35.1
     optionalDependencies:
       fsevents: 2.3.2
-    dev: true
 
   /@popperjs/core@2.11.8:
     resolution: {integrity: sha512-P1st0aksCrn9sGZhp8GMYwBnQsbvAWsZAX44oXNNvLHGqAOcoVxmjZiohstwQ7SqKnbR47akdNi+uleWD8+g6A==}
@@ -9467,7 +9466,7 @@ packages:
       - supports-color
     dev: false
 
-  /@saleor/app-sdk@0.43.1(graphql@16.7.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0):
+  /@saleor/app-sdk@0.43.1(graphql@16.7.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0):
     resolution: {integrity: sha512-uq9RD35jMb4oApUqMA+utxot5EjBFgLQ9SH1pBvGvWVrULfB5DmQiazoS82r0vjZbyuCVRi6A2AkVb2+iJCpJA==}
     peerDependencies:
       graphql: '>=16.6.0'
@@ -9478,7 +9477,7 @@ packages:
       debug: 4.3.4
       graphql: 16.7.1
       jose: 4.14.4
-      next: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+      next: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       raw-body: 2.5.2
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
@@ -9642,7 +9641,7 @@ packages:
       localforage: 1.10.0
     dev: false
 
-  /@sentry/nextjs@7.77.0(next@13.4.8)(react@18.2.0):
+  /@sentry/nextjs@7.77.0(next@14.2.7)(react@18.2.0):
     resolution: {integrity: sha512-8tYPBt5luFjrng1sAMJqNjM9sq80q0jbt6yariADU9hEr7Zk8YqFaOI2/Q6yn9dZ6XyytIRtLEo54kk2AO94xw==}
     engines: {node: '>=8'}
     peerDependencies:
@@ -9663,7 +9662,7 @@ packages:
       '@sentry/vercel-edge': 7.77.0
       '@sentry/webpack-plugin': 1.20.0
       chalk: 3.0.0
-      next: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+      next: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       react: 18.2.0
       resolve: 1.22.8
       rollup: 2.78.0
@@ -10678,6 +10677,9 @@ packages:
       file-system-cache: 2.3.0
     dev: true
 
+  /@swc/counter@0.1.3:
+    resolution: {integrity: sha512-e2BR4lsJkkRlKZ/qCHPw9ZaSxc0MVUd7gtbtaB7aMvHeJVYe8sOB8DBZkP2DtISHGSku9sCK6T6cnY0CtXrOCQ==}
+
   /@swc/helpers@0.3.17:
     resolution: {integrity: sha512-tb7Iu+oZ+zWJZ3HJqwx8oNwSDIU440hmVMDPhpACWQWnrZHK99Bxs70gT1L2dnr5Hg50ZRWEFkQCAnOVVV0z1Q==}
     dependencies:
@@ -10690,9 +10692,10 @@ packages:
       tslib: 2.6.2
     dev: false
 
-  /@swc/helpers@0.5.1:
-    resolution: {integrity: sha512-sJ902EfIzn1Fa+qYmjdQqh8tPsoxyBz+8yBKC2HKUxyezKJFwPGOn7pv4WY6QuQW//ySQi5lJjA/ZT9sNWWNTg==}
+  /@swc/helpers@0.5.5:
+    resolution: {integrity: sha512-KGYxvIOXcceOAbEk4bi/dVLEK9z8sZ0uBB3Il5b1rhfClSpcX0yfRO0KmTkqR2cnQDymwLB+25ZyMzICg/cm/A==}
     dependencies:
+      '@swc/counter': 0.1.3
       tslib: 2.6.2
 
   /@tanstack/query-core@4.29.19:
@@ -10812,7 +10815,7 @@ packages:
       '@trpc/server': 10.43.1
     dev: false
 
-  /@trpc/next@10.34.0(@tanstack/react-query@4.29.19)(@trpc/client@10.34.0)(@trpc/react-query@10.34.0)(@trpc/server@10.34.0)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0):
+  /@trpc/next@10.34.0(@tanstack/react-query@4.29.19)(@trpc/client@10.34.0)(@trpc/react-query@10.34.0)(@trpc/server@10.34.0)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0):
     resolution: {integrity: sha512-8jQPedVkCYCAG6PXDEumG5ILeD1aYVC6/aApk5Y96eeqnmAtX7TO9grVRfGGNaISuTtJ/oIDmRfSRqo1eOU4OA==}
     peerDependencies:
       '@tanstack/react-query': ^4.18.0
@@ -10827,13 +10830,13 @@ packages:
       '@trpc/client': 10.34.0(@trpc/server@10.34.0)
       '@trpc/react-query': 10.34.0(@tanstack/react-query@4.29.19)(@trpc/client@10.34.0)(@trpc/server@10.34.0)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server': 10.34.0
-      next: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+      next: 14.2.7(@playwright/test@1.35.1)(react-dom@18.2.0)(react@18.2.0)
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
       react-ssr-prepass: 1.5.0(react@18.2.0)
     dev: false
 
-  /@trpc/next@10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@13.4.8)(react-dom@18.2.0)(react@18.2.0):
+  /@trpc/next@10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/react-query@10.43.1)(@trpc/server@10.43.1)(next@14.2.7)(react-dom@18.2.0)(react@18.2.0):
     resolution: {integrity: sha512-8Gmt5FaYR6Cb2KLPBUC3sc9xm2YOjJwJG+qUGZsmqnD0AstKr4D3K8dcrP+b7zjiyTIha2Lb3hGaXqyl1Z9X6g==}
     peerDependencies:
       '@tanstack/react-query': ^4.18.0
@@ -10848,7 +10851,7 @@ packages:
       '@trpc/client': 10.43.1(@trpc/server@10.43.1)
       '@trpc/react-query': 10.43.1(@tanstack/react-query@4.29.19)(@trpc/client@10.43.1)(@trpc/server@10.43.1)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server': 10.43.1
-      next: 13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
+      next: 14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0)
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
       react-ssr-prepass: 1.5.0(react@18.2.0)
@@ -12708,7 +12711,7 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001561
+      caniuse-lite: 1.0.30001653
       electron-to-chromium: 1.4.482
       node-releases: 2.0.13
       update-browserslist-db: 1.0.11(browserslist@4.21.10)
@@ -12718,7 +12721,7 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001519
+      caniuse-lite: 1.0.30001653
       electron-to-chromium: 1.4.482
       node-releases: 2.0.13
       update-browserslist-db: 1.0.11(browserslist@4.21.9)
@@ -12729,7 +12732,7 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001562
+      caniuse-lite: 1.0.30001653
       electron-to-chromium: 1.4.585
       node-releases: 2.0.13
       update-browserslist-db: 1.0.13(browserslist@4.22.1)
@@ -12872,15 +12875,12 @@ packages:
     resolution: {integrity: sha512-Sf9NiF+wZxPfzv8Z3iS0rXM1Do+iOy2Lxvib38glFX+08TCYYYGR5fRJXk4d77C4AYwhUjgYgMsMudbh2TqCKw==}
     dev: true
 
-  /caniuse-lite@1.0.30001519:
-    resolution: {integrity: sha512-0QHgqR+Jv4bxHMp8kZ1Kn8CH55OikjKJ6JmKkZYP1F3D7w+lnFXF70nG5eNfsZS89jadi5Ywy5UCSKLAglIRkg==}
-    dev: true
-
   /caniuse-lite@1.0.30001561:
     resolution: {integrity: sha512-NTt0DNoKe958Q0BE0j0c1V9jbUzhBxHIEJy7asmGrpE0yG63KTV7PLHPnK2E1O9RsQrQ081I3NLuXGS6zht3cw==}
+    dev: false
 
-  /caniuse-lite@1.0.30001562:
-    resolution: {integrity: sha512-kfte3Hym//51EdX4239i+Rmp20EsLIYGdPkERegTgU19hQWCRhsRFGKHTliUlsry53tv17K7n077Kqa0WJU4ng==}
+  /caniuse-lite@1.0.30001653:
+    resolution: {integrity: sha512-XGWQVB8wFQ2+9NZwZ10GxTYC5hk0Fa+q8cSkr0tgvMhYhMHP/QC+WTgrePMDBWiWc/pV+1ik82Al20XOK25Gcw==}
 
   /capital-case@1.0.4:
     resolution: {integrity: sha512-ds37W8CytHgwnhGGTi88pcPyR15qoNkOpYwmMMfnWqqWgESapLqvDx6huFjQ5vqWSn2Z06173XNA7LtMOeUh1A==}
@@ -15591,7 +15591,6 @@ packages:
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
     requiresBuild: true
-    dev: true
     optional: true
 
   /fsevents@2.3.3:
@@ -15789,6 +15788,7 @@ packages:
 
   /glob-to-regexp@0.4.1:
     resolution: {integrity: sha512-lkX1HJXwyMcprw/5YUZc2s7DrpAiHB21/V+E1rHUrVNokkvB6bqMzT0VfV6/86ZNabt1k14YOIaT7nDvOX3Iiw==}
+    dev: true
 
   /glob@7.1.7:
     resolution: {integrity: sha512-OvD9ENzPLbegENnYP5UUfJIirTg4+XwMWGaQfQTY0JenxNvvIKP3U3/tAQSPIu/lHxXYSZmpXlUHeqAIdKzBLQ==}
@@ -18355,7 +18355,6 @@ packages:
     resolution: {integrity: sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==}
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
-    dev: true
 
   /natural-compare@1.4.0:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
@@ -18412,44 +18411,85 @@ packages:
       - babel-plugin-macros
     dev: false
 
-  /next@13.4.8(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-lxUjndYKjZHGK3CWeN2RI+/6ni6EUvjiqGWXAYPxUfGIdFGQ5XoisrqAJ/dF74aP27buAfs8MKIbIMMdxjqSBg==}
-    engines: {node: '>=16.8.0'}
+  /next@14.2.7(@babel/core@7.23.3)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-4Qy2aK0LwH4eQiSvQWyKuC7JXE13bIopEQesWE0c/P3uuNRnZCQanI0vsrMLmUQJLAto+A+/8+sve2hd+BQuOQ==}
+    engines: {node: '>=18.17.0'}
     hasBin: true
     peerDependencies:
       '@opentelemetry/api': ^1.1.0
-      fibers: '>= 3.1.0'
+      '@playwright/test': ^1.41.2
       react: ^18.2.0
       react-dom: ^18.2.0
       sass: ^1.3.0
     peerDependenciesMeta:
       '@opentelemetry/api':
         optional: true
-      fibers:
+      '@playwright/test':
         optional: true
       sass:
         optional: true
     dependencies:
-      '@next/env': 13.4.8
-      '@swc/helpers': 0.5.1
+      '@next/env': 14.2.7
+      '@swc/helpers': 0.5.5
       busboy: 1.6.0
-      caniuse-lite: 1.0.30001561
-      postcss: 8.4.14
+      caniuse-lite: 1.0.30001653
+      graceful-fs: 4.2.11
+      postcss: 8.4.31
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
       styled-jsx: 5.1.1(@babel/core@7.23.3)(react@18.2.0)
-      watchpack: 2.4.0
-      zod: 3.21.4
     optionalDependencies:
-      '@next/swc-darwin-arm64': 13.4.8
-      '@next/swc-darwin-x64': 13.4.8
-      '@next/swc-linux-arm64-gnu': 13.4.8
-      '@next/swc-linux-arm64-musl': 13.4.8
-      '@next/swc-linux-x64-gnu': 13.4.8
-      '@next/swc-linux-x64-musl': 13.4.8
-      '@next/swc-win32-arm64-msvc': 13.4.8
-      '@next/swc-win32-ia32-msvc': 13.4.8
-      '@next/swc-win32-x64-msvc': 13.4.8
+      '@next/swc-darwin-arm64': 14.2.7
+      '@next/swc-darwin-x64': 14.2.7
+      '@next/swc-linux-arm64-gnu': 14.2.7
+      '@next/swc-linux-arm64-musl': 14.2.7
+      '@next/swc-linux-x64-gnu': 14.2.7
+      '@next/swc-linux-x64-musl': 14.2.7
+      '@next/swc-win32-arm64-msvc': 14.2.7
+      '@next/swc-win32-ia32-msvc': 14.2.7
+      '@next/swc-win32-x64-msvc': 14.2.7
+    transitivePeerDependencies:
+      - '@babel/core'
+      - babel-plugin-macros
+
+  /next@14.2.7(@playwright/test@1.35.1)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-4Qy2aK0LwH4eQiSvQWyKuC7JXE13bIopEQesWE0c/P3uuNRnZCQanI0vsrMLmUQJLAto+A+/8+sve2hd+BQuOQ==}
+    engines: {node: '>=18.17.0'}
+    hasBin: true
+    peerDependencies:
+      '@opentelemetry/api': ^1.1.0
+      '@playwright/test': ^1.41.2
+      react: ^18.2.0
+      react-dom: ^18.2.0
+      sass: ^1.3.0
+    peerDependenciesMeta:
+      '@opentelemetry/api':
+        optional: true
+      '@playwright/test':
+        optional: true
+      sass:
+        optional: true
+    dependencies:
+      '@next/env': 14.2.7
+      '@playwright/test': 1.35.1
+      '@swc/helpers': 0.5.5
+      busboy: 1.6.0
+      caniuse-lite: 1.0.30001653
+      graceful-fs: 4.2.11
+      postcss: 8.4.31
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+      styled-jsx: 5.1.1(@babel/core@7.23.3)(react@18.2.0)
+    optionalDependencies:
+      '@next/swc-darwin-arm64': 14.2.7
+      '@next/swc-darwin-x64': 14.2.7
+      '@next/swc-linux-arm64-gnu': 14.2.7
+      '@next/swc-linux-arm64-musl': 14.2.7
+      '@next/swc-linux-x64-gnu': 14.2.7
+      '@next/swc-linux-x64-musl': 14.2.7
+      '@next/swc-win32-arm64-msvc': 14.2.7
+      '@next/swc-win32-ia32-msvc': 14.2.7
+      '@next/swc-win32-x64-msvc': 14.2.7
     transitivePeerDependencies:
       - '@babel/core'
       - babel-plugin-macros
@@ -19238,7 +19278,6 @@ packages:
     resolution: {integrity: sha512-pNXb6CQ7OqmGDRspEjlxE49w+4YtR6a3X6mT1hZXeJHWmsEz7SunmvZeiG/+y1yyMZdHnnn73WKYdtV1er0Xyg==}
     engines: {node: '>=16'}
     hasBin: true
-    dev: true
 
   /png-js@1.0.0:
     resolution: {integrity: sha512-k+YsbhpA9e+EFfKjTCH3VW6aoKlyNYI6NYdTfDL4CIvFnvsuO84ttonmZE7rc+v23SLTH8XX+5w/Ak9v0xGY4g==}
@@ -19284,7 +19323,7 @@ packages:
     resolution: {integrity: sha512-M0RzbcI0sO/XJNucsGjvWU9ERWxb/ytp1w6dKtxTKgixdtQDq4rmx/g8W1hnaheq9jgwL/oyEdH5Bc4WwJKMqg==}
     engines: {node: ^10 || ^12 || >=14}
     dependencies:
-      nanoid: 3.3.6
+      nanoid: 3.3.7
       picocolors: 1.0.0
       source-map-js: 1.0.2
     dev: true
@@ -19294,6 +19333,14 @@ packages:
     engines: {node: ^10 || ^12 || >=14}
     dependencies:
       nanoid: 3.3.6
+      picocolors: 1.0.0
+      source-map-js: 1.0.2
+
+  /postcss@8.4.31:
+    resolution: {integrity: sha512-PS08Iboia9mts/2ygV3eLpY5ghnUcfLV/EXTOW1E2qYxJKGGBUtNjN76FYHnMs36RmARn41bC0AZmn+rR0OVpQ==}
+    engines: {node: ^10 || ^12 || >=14}
+    dependencies:
+      nanoid: 3.3.7
       picocolors: 1.0.0
       source-map-js: 1.0.2
 
@@ -22370,6 +22417,7 @@ packages:
     dependencies:
       glob-to-regexp: 0.4.1
       graceful-fs: 4.2.11
+    dev: true
 
   /wcwidth@1.0.1:
     resolution: {integrity: sha512-XHPEwS0q6TaxcvG85+8EYkbiCux2XtWG2mkc47Ng2A77BQu9+DqIOJldST4HgPkuea7dvKSj5VgX3P1d4rW8Tg==}
